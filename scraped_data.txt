@@ -1,0 +1,25 @@
+Title of the page: Google
+
+Link text: Images, URL: https://www.google.com/imghp?hl=en&tab=wi
+Link text: Maps, URL: https://maps.google.co.za/maps?hl=en&tab=wl
+Link text: Play, URL: https://play.google.com/?hl=en&tab=w8
+Link text: YouTube, URL: https://www.youtube.com/?tab=w1
+Link text: News, URL: https://news.google.com/?tab=wn
+Link text: Gmail, URL: https://mail.google.com/mail/?tab=wm
+Link text: Drive, URL: https://drive.google.com/?tab=wo
+Link text: Web History, URL: http://www.google.co.za/history/optout?hl=en
+Link text: Settings, URL: /preferences?hl=en
+Link text: Sign in, URL: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ
+Link text: Advanced search, URL: /advanced_search?hl=en-ZA&authuser=0
+Link text: Afrikaans, URL: https://www.google.com/setprefs?sig=0_sSsWZLgPeOJHxp_ebmOiNVfzlE4%3D&hl=af&source=homepage&sa=X&ved=0ahUKEwiO39KkgP6IAxU9ZEEAHfvbAGYQ2ZgBCAY
+Link text: Sesotho, URL: https://www.google.com/setprefs?sig=0_sSsWZLgPeOJHxp_ebmOiNVfzlE4%3D&hl=st&source=homepage&sa=X&ved=0ahUKEwiO39KkgP6IAxU9ZEEAHfvbAGYQ2ZgBCAc
+Link text: isiZulu, URL: https://www.google.com/setprefs?sig=0_sSsWZLgPeOJHxp_ebmOiNVfzlE4%3D&hl=zu&source=homepage&sa=X&ved=0ahUKEwiO39KkgP6IAxU9ZEEAHfvbAGYQ2ZgBCAg
+Link text: IsiXhosa, URL: https://www.google.com/setprefs?sig=0_sSsWZLgPeOJHxp_ebmOiNVfzlE4%3D&hl=xh&source=homepage&sa=X&ved=0ahUKEwiO39KkgP6IAxU9ZEEAHfvbAGYQ2ZgBCAk
+Link text: Setswana, URL: https://www.google.com/setprefs?sig=0_sSsWZLgPeOJHxp_ebmOiNVfzlE4%3D&hl=tn&source=homepage&sa=X&ved=0ahUKEwiO39KkgP6IAxU9ZEEAHfvbAGYQ2ZgBCAo
+Link text: Northern Sotho, URL: https://www.google.com/setprefs?sig=0_sSsWZLgPeOJHxp_ebmOiNVfzlE4%3D&hl=nso&source=homepage&sa=X&ved=0ahUKEwiO39KkgP6IAxU9ZEEAHfvbAGYQ2ZgBCAs
+Link text: Advertising, URL: /intl/en/ads/
+Link text: Business Solutions, URL: http://www.google.co.za/intl/en/services/
+Link text: About Google, URL: /intl/en/about.html
+Link text: Google.co.za, URL: https://www.google.com/setprefdomain?prefdom=ZA&prev=https://www.google.co.za/&sig=K_RZwE5DEGIq9uLS3K6sAVXDQo0S4%3D
+Link text: Privacy, URL: /intl/en/policies/privacy/
+Link text: Terms, URL: /intl/en/policies/terms/
